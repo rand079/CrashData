@@ -1,0 +1,3 @@
+Due to GitHub space constraints, the NZCrash and UKCrash data streams described in our thesis are made available at the following Dropbox address:
+
+https://www.dropbox.com/sh/0rx5jvl68hg0bc2/AAAdYGtWmjJpoSZMQlTWE_Tsa?dl=0

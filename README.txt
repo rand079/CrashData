@@ -1,0 +1,1 @@
+This repository holds code for GAD and GCPF as proposed in the PhD thesis, 'Using meta-learning to improve classification in data streams' by Robert Anderson. It includes links to a public dropbox with the NZCrash and UKCrash datasets described within that paper.
