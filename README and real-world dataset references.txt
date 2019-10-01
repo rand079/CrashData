@@ -1,6 +1,6 @@
-Within this folder, we include files to support the submission of our paper, Classifying imbalanced road accident data using recurring concept drift to CIKM 2019.
+Within this folder, we include files to support the submission of our paper, Classifying imbalanced road accident data using recurring concept drift to AusDM 2019.
 
-Included are two real-world datasets, the NZ Crash and UK Crash binary class problems described in the paper. Other real-world datasets can be found at the following locations:
+We provide a link to the two real-world datasets, the NZ Crash and UK Crash binary class problems described in the paper. Other real-world datasets can be found at the following locations:
 
 - ClickP is from the KDD Cup 2012 and can be found here https://www.openml.org/d/1219
 - The PAKDD 2009 dataset is avialble from http://www.cs.put.poznan.pl/dbrzezinski/software.php.
